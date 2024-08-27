@@ -17,7 +17,7 @@ Implementing a web scraping project using Scrapy library in Python.
 
 <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 <h2>2. Power Bi Step</h2>
-Implementing a dashboard with Power Bi designed as a Pokedex - looking for stats of any pokemon and also some general statistics.
+Implementing a dashboard with Power Bi with data scraped from previous step, designed as a Pokedex - looking for stats of any pokemon and also some general statistics.
 
 Note: This project is desinged only for academic purposes.
       Copyright: Pokemon Company
