@@ -9,6 +9,8 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project)
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project&labelColor=%2337d67a&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project)
+
 <img src="https://scrapy.org/img/scrapylogo.png">
 <h2>1. Web Scraping Step</h2>
 Implementing a web scraping project using Scrapy library in Python.
