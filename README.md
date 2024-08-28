@@ -7,8 +7,6 @@
   <img src="https://github.com/CarlosHIngeGeek/PersonalWebPage/blob/master/imagenes/Pokedex_Dashboard.PNG">
 </div>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project&labelColor=%2337d67a&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPokedex_Project)
 
 <img src="https://scrapy.org/img/scrapylogo.png">
